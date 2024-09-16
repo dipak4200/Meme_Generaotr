@@ -1,4 +1,4 @@
-# co2614ad9acf3a1840aef597b
+# MEME_GENERATOR
 
 Quick start:
 
